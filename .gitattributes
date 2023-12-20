@@ -1,0 +1,2 @@
+weights/yolov5m_additional.pt filter=lfs diff=lfs merge=lfs -text
+weights/yolov5m_basic.pt filter=lfs diff=lfs merge=lfs -text
